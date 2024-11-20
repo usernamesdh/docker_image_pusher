@@ -1,1 +1,1 @@
-prom/prometheus:v2.53.0
+prom/alermanager:v0.27.0
